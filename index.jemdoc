@@ -21,13 +21,17 @@ My research interests include
 
 [https://scholar.google.com/citations?hl=en&user=_gf0LboAAAAJ Find out more].
 == Recent Publications 
+- [https://arxiv.org/pdf/2312.03807.pdf Scalable Bilevel Loss Balancing for Multi-Task Learning] \n
+*Peiyao Xiao*, Chaosheng Dong, Shaofeng Zou, and Kaiyi Ji. arXiv:2502.08585.
+- [https://arxiv.org/pdf/2502.02748 ReGNet: Reciprocal Space-Aware Long-Range Modeling and
+Multi-Property Prediction for Crystals] \n
+Jianan Nie, *Peiyao Xiao*, Kaiyi Ji, Peng Gao. arXiv: 2502.02748.
+- [https://arxiv.org/abs/2405.19440 MGDA Converges under Generalized Smoothness, Provably] \n
+Qi Zhang, *Peiyao Xiao*, Shaofeng Zoo, and Kaiyi Ji.  International Conference on Learning Representations (ICLR) 2025.
 - [https://arxiv.org/abs/2305.18409 Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms] \n
 *Peiyao Xiao*, Hao Ban and Kaiyi Ji. Advances in Neural Information Processing Systems (NeurIPS) 2023.
 - [https://arxiv.org/abs/2305.19442 SimFBO: Towards Simple, Flexible and Communication-efficient Federated Bilevel Learning] \n
 Yifan Yang, *Peiyao Xiao* and Kaiyi Ji.  Advances in Neural Information Processing Systems (NeurIPS) 2023.  *(Spotlight, 3% Acceptance)*
-- [https://arxiv.org/pdf/2312.03807.pdf Achieving $\mathcal{O}(\epsilon^{−1.5})$ Complexity in Hessian/Jacobian-free Stochastic Bilevel Optimization] \n
-Yifan Yang, *Peiyao Xiao* and Kaiyi Ji.  Advances in Neural Information Processing Systems (NeurIPS) 2023.
-- [https://arxiv.org/pdf/2302.04969.pdf Communication-Efficient Federated Hypergradient Computation via Aggregated Iterative Differentiation] \n
-*Peiyao Xiao* and Kaiyi Ji.  International Conference on Machine Learning (ICML) 2023.
+
 
 

@@ -2,8 +2,11 @@
 ==Publications
 
 == Preprints
-- [https://arxiv.org/pdf/2405.19440 MGDA Converges under Generalized Smoothness, Provably] \n
-Qi Zhang, *Peiyao Xiao*, Shaofeng Zou, Kaiyi Ji. arXiv: 2405.19440
+- [https://arxiv.org/pdf/2312.03807.pdf Scalable Bilevel Loss Balancing for Multi-Task Learning] \n
+*Peiyao Xiao*, Chaosheng Dong, Shaofeng Zou, and Kaiyi Ji. arXiv:2502.08585.
+- [https://arxiv.org/pdf/2502.02748 ReGNet: Reciprocal Space-Aware Long-Range Modeling and
+Multi-Property Prediction for Crystals] \n
+Jianan Nie, *Peiyao Xiao*, Kaiyi Ji, Peng Gao. arXiv: 2502.02748.
 - [https://arxiv.org/pdf/2405.16077 Finite-Time Analysis for Conflict-Avoidant Multi-Task Reinforcement Learning] \n
 Yudan Wang, *Peiyao Xiao*, Hao Ban, Kaiyi Ji, Shaofeng Zou. arXiv: 2405.16077
 == 2023
@@ -15,6 +18,9 @@ Yifan Yang, *Peiyao Xiao* and Kaiyi Ji.  Advances in Neural Information Processi
 Yifan Yang, *Peiyao Xiao* and Kaiyi Ji.  Advances in Neural Information Processing Systems (NeurIPS) 2023.
 - [https://arxiv.org/pdf/2302.04969.pdf Communication-Efficient Federated Hypergradient Computation via Aggregated Iterative Differentiation] \n
 *Peiyao Xiao* and Kaiyi Ji.  International Conference on Machine Learning (ICML) 2023.
+== 2025
+- [https://arxiv.org/pdf/2405.19440 MGDA Converges under Generalized Smoothness, Provably] \n
+Qi Zhang, *Peiyao Xiao*, Shaofeng Zou, Kaiyi Ji. International Conference on Learning Representations (ICLR) 2025.
 
 
 
